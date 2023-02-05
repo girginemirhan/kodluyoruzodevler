@@ -1,6 +1,6 @@
 # **Kodluyoruz Ödevler**
-## "patika.dev" Eğitiminde ki Tüm Ödevlerim
+## "patika.dev" Eğitiminde ki İlk Ödevim
 
-*Bu repo içerisine eğitim süresince yapacağım ödevleri kaydedeceğim.*
+*Bu klasör içerisine ilk ödevimiz olan hakkımda sayfası mevcut. Kod satırları içerisinde başlık, paragraf, break ve listeleme gibi etiketler ile açıklama satırları kullandım*
 
 >Teşekkürler
