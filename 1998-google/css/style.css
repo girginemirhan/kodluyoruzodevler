@@ -1,0 +1,78 @@
+.logobox {
+    width: 1350px;
+    height: 113px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 10px;
+    align-items: center;
+    /* background-color: aquamarine; */
+    float: none;
+}
+
+.logo {
+    margin-left: 37%;
+}
+
+.main {
+    margin-top: -25px;
+    width: 1350px;
+    height: 144px;
+    /* background-color: #ffa6a6; */
+}
+
+.searchb {
+    width: 1210px;
+    height: 60px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 3px;
+    margin-bottom: 0px;
+    align-items: center;
+    background-color: rgb(235, 233, 233);
+}
+
+.cards{
+    width: 1210px;
+    height: 74px;
+    margin-left: 70px;
+    }
+
+ .carditem
+ {
+    text-align: center;
+    margin-left: auto;
+    margin-top: 2%;
+ }
+.card1 {
+    float: left;
+    width: 444.578px;
+    height: 80px;
+    margin-top: 2px;
+    margin-right: 2px;
+    background-color: #7ee5da;
+    padding-top: 2px;
+    padding-bottom: 2px;
+}
+
+.card2 {
+    font-size: 14px;
+    float: left;
+    width: 233.594px;
+    height: 77px;
+    margin-top: 2px;
+    margin-right: 2px;
+    background-color: #70ccc2;
+    padding-top: 7px;
+}
+
+.card3 {
+    font-size: 14px;
+    float: left;
+    width: 525.850px;
+    height: 80px;
+    margin-right: 2px;
+    margin-top: 2px;
+    background-color: #5ba39b;
+    padding-top: 2px;
+    padding-bottom: 2px;
+}
