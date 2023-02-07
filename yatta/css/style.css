@@ -1,0 +1,38 @@
+body {
+    align-items: center;
+    background-color: #FFEBB7;
+    
+    
+}
+
+p {
+    font-family: 'Poppins', sans-serif;
+    ;
+}
+
+a {
+    color: #FF6E31;
+    font-family: 'Lobster', cursive;
+}
+a:link {
+    color: #b94b1c;
+}
+
+h1, h5 {
+    align-items: center;
+    font-family: 'Lobster', cursive;
+    color: #382d21;
+
+}
+
+h3 {
+    color: #382d21;
+}
+td {
+    font-size: 25px;
+    font-family: 'Lobster', cursive;
+    
+}
+footer {
+    background-color: #AD8E70;
+}
